@@ -16,7 +16,11 @@ This project is a complete SQL-based Retail Store Management System.
 - Date functions
 - Update, Alter & Delete operations
 - Subqueries
-
+```
+  📁 Retail-Store-Management-System
+   ├── retail_store.sql
+   ├── README.md
+```
 ## 🛠 Technologies Used
 - SQL
 - MySQL / SQLite
